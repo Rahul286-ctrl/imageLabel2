@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "812262473591",
+    "firebase_url": "https://panchayat-1011e-default-rtdb.firebaseio.com",
+    "project_id": "panchayat-1011e",
+    "storage_bucket": "panchayat-1011e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812262473591:android:0ebaa697eaddd45c712b72",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812262473591-nqhafbeqv0f11n3jtjpqic5f4bkhi03g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAoBNJhC7cygiP0Zd0YHul90WoU1KIeHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812262473591-nqhafbeqv0f11n3jtjpqic5f4bkhi03g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812262473591:android:1d49b365a5504dd4712b72",
+        "android_client_info": {
+          "package_name": "com.example.panchayat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812262473591-85l7n3pai266rdmvgvfm8erkv0fe3di0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.panchayat",
+            "certificate_hash": "8b11d77ae1f5351c927b91a12be41dfb42efa8fb"
+          }
+        },
+        {
+          "client_id": "812262473591-nqhafbeqv0f11n3jtjpqic5f4bkhi03g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAoBNJhC7cygiP0Zd0YHul90WoU1KIeHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812262473591-nqhafbeqv0f11n3jtjpqic5f4bkhi03g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812262473591:android:1db920a0fb5280d8712b72",
+        "android_client_info": {
+          "package_name": "com.example.splash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812262473591-2fiudnjt0dq7dicc5msd3gcpja68a1eb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.splash",
+            "certificate_hash": "8b11d77ae1f5351c927b91a12be41dfb42efa8fb"
+          }
+        },
+        {
+          "client_id": "812262473591-nqhafbeqv0f11n3jtjpqic5f4bkhi03g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAoBNJhC7cygiP0Zd0YHul90WoU1KIeHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812262473591-nqhafbeqv0f11n3jtjpqic5f4bkhi03g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
